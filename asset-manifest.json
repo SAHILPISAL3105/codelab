@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/codelab/static/css/main.e4a152cf.css",
+    "main.js": "/codelab/static/js/main.9cca1c9d.js",
+    "static/js/787.bd4ef7cd.chunk.js": "/codelab/static/js/787.bd4ef7cd.chunk.js",
+    "static/media/Picture1.jpg": "/codelab/static/media/Picture1.eda1452f6c0ebc9f3677.jpg",
+    "static/media/Laptop.jpg": "/codelab/static/media/Laptop.efff85b4b49617116156.jpg",
+    "static/media/Printer.jpg": "/codelab/static/media/Printer.e1a32a142ee2f2f56bea.jpg",
+    "static/media/logo.svg": "/codelab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/codelab/index.html",
+    "main.e4a152cf.css.map": "/codelab/static/css/main.e4a152cf.css.map",
+    "main.9cca1c9d.js.map": "/codelab/static/js/main.9cca1c9d.js.map",
+    "787.bd4ef7cd.chunk.js.map": "/codelab/static/js/787.bd4ef7cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a152cf.css",
+    "static/js/main.9cca1c9d.js"
+  ]
+}
